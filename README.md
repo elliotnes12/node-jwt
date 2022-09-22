@@ -1,1 +1,6 @@
 # node-jwt
+
+
+### end points
+
+* /
